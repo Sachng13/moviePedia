@@ -55,6 +55,8 @@ Discription : Details about the movie. After clicking on info icon.
 https://sachng13.github.io/moviePedia/
 
 
+
+
 <h2>Thank You.....</h2>
 
 
